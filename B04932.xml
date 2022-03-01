@@ -1,0 +1,726 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moristonus martyr to the glorious memory of the much renowned gentleman, Andrew Ker of Moristoun, who was slain at Buda, July 19. 1686. A funeral elegie. / By Ninian Paterson.</title>
+            <author>Paterson, Ninian, d. 1688.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04932</idno>
+            <idno type="STC">Wing P694</idno>
+            <idno type="STC">ESTC R181519</idno>
+            <idno type="EEBO-CITATION">51784594</idno>
+            <idno type="OCLC">ocm 51784594</idno>
+            <idno type="VID">175003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175003)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2709:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moristonus martyr to the glorious memory of the much renowned gentleman, Andrew Ker of Moristoun, who was slain at Buda, July 19. 1686. A funeral elegie. / By Ninian Paterson.</title>
+                  <author>Paterson, Ninian, d. 1688.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: cropped, stained, print show-through with much loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ker, Andrew, d. 1686 --  Poetry.</term>
+               <term>Elegiac poetry, Scottish --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175003:1" rendition="simple:additions"/>
+            <p>MORISTONUS MARTYR<g ref="char:punc">▪</g> TO THE Glorious Memory of the much Renowned Gentleman, <hi>ANDREW KER</hi> of <hi>MORISTO<g ref="char:V">Ʋ</g>N,</hi> Who was Slain at <hi>Buda,</hi> July 19. 1686.</p>
+            <p>
+               <hi>A Funeral Elegie.</hi>
+            </p>
+            <q>
+               <l>
+                  <hi>Moriſtonus</hi> obit quanquam victoria parta eſt,</l>
+               <l>Vix <hi>Mahumet</hi> tanti, totaque <hi>Buda</hi> fuit.</l>
+            </q>
+            <q>Omnis Chriſtianus Chriſto militat, cui quicunque in hoc bello ſanguine litat, Martyr eſt. <bibl>
+                  <hi>Tertull.</hi>
+               </bibl>
+            </q>
+            <p>By <hi>NINIAN PATERSON.</hi>
+            </p>
+            <p>Printed in the Year 1687.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:175003:2"/>
+            <head>To the much Honoured the Land of <hi>More<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Holy War against thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arbarous and Blaſphemous Infidels, your (now both in Heaven and Earth) most glorious Brother, hath had the honour to Sacrifice his Life; There was indeed, n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fairer way, to engrave the Glory of your Fame, and Family in the Immortall Annals of all enſuing Ages. I doubt not but his Death wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhortly be the ſad Joyfull-theam of a more skilfull, and accompliſht Pen<g ref="char:punc">▪</g> The cruel and fretting afflictions I have unfortunatly encountered, (whic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I hope ſhall prove all but <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea</hi> to my <hi>Cana<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> to which Age now haſt me) have ſo li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my ſenſes, that am like one gone along journey from himſelf, where the exceſs of Sorro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fearce gives way to the relief of Words; The evident tokens whereof, a that formerly knew me, will quickly perceive, in the following Poem Being, alas! wholly deſtitute of the delicaces of an acut Invention, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> politneſs of a tranſporting expreſsion; but what is ſometimes a mans Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not always his Fault, as by a dear bought Experience, I have too mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> learned now to know. <hi>I</hi> am not altogether of his mind that lately w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Life of the <hi>Grand Vizier Cara Muſtapha,</hi> that it was only an amo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ous pique that hath rumbled the World, into theſe Grand Tranſactions to me they carry the ting and tincture of an higher Source; And thou that now all Careſses and Liberalities to the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſes</hi> be baniſhed this part of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> World, yet could I have the happineſs to animat any to that degree of Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to avenge the Injury and Quarrel of our blaſphemed Saviour, I doubt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but my now naked Muſe would quickly grow Pen-feathered, and learn to ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with ſuch a touring Wing, as would render th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m the celebrated Models Religion, Virtue, and Honour. I have fo born, in this Addreſs to h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expatiated on your own Perſon <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Gallantry, leſt it ſhould ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an attack upon your modesty: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Winter-day, I ſhall make ame<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for my unpleaſantneſs by my b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en <hi>I</hi> have only told you ſo g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an esteem I have for your <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at unto what extremity of adv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Fortun, I am ſo ever reduce<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> always preſerve the profound <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſpect and Paſsion of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your moſt Devouted and Humble Servant NINIAN PATERSO<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175003:2"/>
+            <head>To the Reader.</head>
+            <p>THe diſaſtrous Diſcords that have miſerably infeſted, and almoſt haraſſed <hi>Great-Britain,</hi> and many other parts of <hi>Europe</hi> this long time by paſt, have diverted our Illuſtrious Princes, and Magnanimous Hero's from the leaſt thought of this Holy War, till our bleſſed GOD in his juſt Judgment, ſtirred up the inſolent Spirit of that fierce bloody and barbarous Robber, the great <hi>Turk,</hi> to blaſpheme our Saviour, and threaten all <hi>Chriſtendom</hi> with Ruine and Deſtruction; The Titles he that appropriat to himſelf, and his very Name will juſtifie theſe Characters, for the Word <hi>Mahumet</hi> is derived from the Hebrew <hi>Machach quod percutere, ferire, caedere, vel delere, &amp; delendo perdere<g ref="char:punc">▪</g> ſig<g ref="char:EOLhyphen"/>nificat;</hi> ſo the Devils name and his, <hi>Appolyon</hi> and <hi>Mahuamet</hi> are Synonims; his other Title <hi>Sultan,</hi> (though properly <hi>Arabick</hi>) derived off the Hebrew <hi>Shall<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> and <hi>Sh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n,</hi> which ſignifies Dominion and Power. That ſame word which we find <hi>Geneſis</hi> 42. and 6th. tranſlated the G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vernour, a Title wherein the chief Rulers of <hi>Egypt</hi> and <hi>Babylon</hi> did much glory, and ſtoln from them by this Thief. Theſe his opprobrious inſolencies did awaken the religious Courage, and inflame the ſacred Z<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al, of not only the crowned Heads and Scepter-ſwaying Hands of Imperial-<hi>Majeſty,</hi> theſe earthly Dieties; but alſo the Heroick Hearts of ſome of minor Rank, though not directly intereſſed in this War, from <hi>Spain, Italy France</hi> and <hi>England,</hi> and ſome alſo of the <hi>Low Countries,</hi> to contribute their Aid to this Villans Deſtruction<g ref="char:punc">▪</g> for the honour of their Saviour, whom thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Monſter had impiouſly and excerably blaſphemed; and to ſignalize their Honour and Courage in ſo glorious an interprize a<g ref="char:EOLhyphen"/>gainſt the Excrements of Mankind, and the Spa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Hell. And now by the permiſſion of GOD, the Scourge of <hi>Chriſtendom,</hi> whom we cannot by the way omit to tell you, how <hi>Octavianus M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> deſcribes.</p>
+            <q>
+               <l>Perfidus hic praedo, cul nec fas, nec pudor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llus,</l>
+               <l>Nec pietatis honos, nec d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lois pignora pacis:</l>
+               <l>Sed tantum imperii, &amp; caedis ſcelerata cupido.</l>
+            </q>
+            <p>Amongſt whom this brave young Gentleman, the Laird of <hi>Moriſtoun</hi> made no ſmall figure, being of a very honourable Birth, and deſcended of the moſt ancient Familſies of the <hi>Mers</hi> and <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>viotdale,</hi> and of an Eſtate, though in the Weſt, yet not much eſtranged from the Bowels of the Eaſt: While we ſpeak of him, it muſt be obſerved, that the Reader will find him, though honourably, yet with a great miſtake of both Name and Title mentioned page 30 in the Hiſtorical Deſcription of the Seige of <hi>Buda,</hi> it being written by a <hi>French-man,</hi> though an exact Recorder, and Eye-witneſs of all theſe bloody Tranſactions, yet utterly unacquaint with our <hi>Moriſtoun,</hi> with him went along from <hi>Scotland</hi> (known to be the Mother of Magnanimity, her Children in moſt parts of <hi>Chriſtendom,</hi> be<g ref="char:EOLhyphen"/>ing known by the Title of valiant and adventerous <hi>Scots</hi>) perſons of good Birth and Quality, whoſe names and honour without wrong done to Poſterity muſt not be omitted.</p>
+            <p>Duke of <hi>Berwick,</hi> Lord <hi>George Savill</hi> Son to the Marqueſs of <hi>Hallifax,</hi> the Lord <hi>Mountjoy,</hi> Col<g ref="char:EOLhyphen"/>lonel <hi>Barrage<g ref="char:punc">▪</g>
+               </hi> Mr. <hi>Smith</hi> Eſquire, Mr. <hi>Couts</hi> Eſquire, Captain <hi>Rupert,</hi> Mr. <hi>Wiſeman</hi> Eſquire, and the Laird of <hi>Dalmany</hi> our Country-man, who on this ſame account ought never to be mentioned with<g ref="char:EOLhyphen"/>out Honour.</p>
+            <p>I hope none will be ſo peeviſh to be offended becauſe I call the <hi>Turk</hi> Antichriſt, it's done by ma<g ref="char:EOLhyphen"/>ny hundreds before me, and theſe Divines of no mean eſteem, <hi>Montague</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>App<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llo C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſarem</hi> hath made it evident as with a Sun-beam; and <hi>Zanchius</hi> too in many of his Writings, <hi>Tom.</hi> 7. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e perſe<g ref="char:EOLhyphen"/>verant ſanctorum;</hi> and alſo in <hi>Tractatu de <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſaeculi;</hi> and <hi>To<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reſpon. ad Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> by ſuch Ar<g ref="char:EOLhyphen"/>guments as theſe, that he exalts himſelf againſt all that is called GOD, and moſt blaſphemouſly de<g ref="char:EOLhyphen"/>nyeth GOD, neither acknowledging the Trinity, not yet that Holy One, the Power of GOD, denys alſo that Chriſt is God, and affirms that he ſhall only be a Witnes of the Judgment, and not a Judge of the World, as we read in <hi>Alcoran<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Az<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Quod Jeſus Chriſtus circa temp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> judicij ſit moriturus &amp; ſicut alij homines reſurrecturus.</hi> Az<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, 49. <hi>Chriſtum non judicem ſed teſtem judicij <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acit,</hi> Damaſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s <hi>in libro de Hereſibus in h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſi Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aelitarum ſive Aga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>um.</hi> P. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>86. And for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Paradiſe, it is nothing but a luxurious Banquet, in a brutiſh Baudi-houſe. It's he that reigns in the Seven-hilled City of <hi>Conſtantinople,</hi> and ſits in the very Temple of God, for <hi>Jeruſalem</hi> is his, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h name <hi>Mahumetis,</hi> (as <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntagu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> manifeſts) makes up the number of the Beaſt, as alſo a great part of the World runs after him, <hi>ecce homo,</hi> this is he; And would to God, the Cryes and Com<g ref="char:EOLhyphen"/>plaints, the Chains, and Bonds, the Bo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s and Shakies, and mercileſs Torments of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb facs="tcp:175003:3"/>
+Brethren, the ſavage and inhumane effuſion of their Blood, that was ſanctified with Baptiſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, the Robbing, and d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Poyſoning of the Souls of their Children, might in this <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ing, and I hope, mature opportunity, kindle in all Chriſtian Hearts, the holy fire of Compaſſion towards the one, and fervant zeal for God, and our Religion towards the other, that we may all with one conſent, avenge the Blood of his Martyred Servants, that have this long time under the Altar, <hi>Revel.</hi> 6. <hi>v.</hi> 9.10 Cryed for vengeance. That ſo we may ſet bounds to the inſolent and in<g ref="char:EOLhyphen"/>ſulting Pride of that hideous Monſter, and may propagate the glorious Goſpel of our Lord and Saviour Jeſus Chriſt.</p>
+            <q>
+               <l>Ahi no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e indignum fuerat tot ſtare per annos,</l>
+               <l>Infandi caput hoc monſtri implacabile territ?</l>
+            </q>
+            <p>There is only our thing that I am to acquaint the Reader with, that I hope it will little offend any Learned or Judicious, that I term this Gentlemans Death a Martyrdom, it muſt be remem<g ref="char:EOLhyphen"/>bred, it's in a Poem to which every man affords ſome grain of allowance, or at leaſt diſcretion will allow him ſo to do, eſpecially in the expreſſion, much more, when it is conſidered, that the Word <hi>Martyr</hi> is primarly, and Originaly Greek, and ſignifies no more but a Witneſs; hence was that ordinary aſſeveration amongſt the Grecians, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. I make the Gods my Witneſs, yet in almoſt all other Tongues, the ſame word being kept: It's applyed more large<g ref="char:EOLhyphen"/>ly to any that has ſuffered Death for the love and honour of God. So <hi>Apel, Geneſis</hi> 4th and 5. And <hi>Zacharias</hi> 2d. <hi>Chr.</hi> 24.21. <hi>Matthew</hi> 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.35. <hi>Luke</hi> 11.51. And the Prophets that were ſlain by <hi>Jezebel,</hi> are by ſome Fathers called Martyrs; when I ſay, almoſt all other Tongues, I except only the Mother <hi>Hebrew,</hi> and her Daughters the <hi>Siriack</hi> and <hi>Arabick,</hi> but in other In<g ref="char:EOLhyphen"/>ferior Tongues, it is peculiarly kept, and appropriated to one that loſeth his Life for a Teſti<g ref="char:EOLhyphen"/>mony of the Truth of the Goſpel of Chriſt. As it is particularly applyed to <hi>Antipas, Revel.</hi> 2.13. Who is ſuppoſed by <hi>Barronius,</hi> and <hi>Pererius</hi> (who take the Hiſtory from <hi>Aretas</hi>) to have been the Biſhop of <hi>Pergamus:</hi> And is ſaid to have been tortured to death in a red hote Brazen Bull, (the invention of the Tyrant <hi>Phaleris</hi>) about that ſame time, that <hi>John</hi> was caſt into the Caldron full of ſeething Oyl. Some make the diſtinction, that all Martyrs muſt be Confeſſors, but all Confeſſors are not Martyrs. And ſo the young Children whom <hi>Herod</hi> ſlew in <hi>Bethlehem,</hi> muſt not have the Honour of that glorious Title: Yet <hi>Barleus</hi> cal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s that <hi>infenticidium martyrij gloria prima,</hi> where he elegantly brings in the Mothers lamenting, and calling to the Tyrant
+<q>
+                  <l>Quid puer hic meruit tam paucis editus horis?</l>
+                  <l>qui potuit ſceptris noxius eſse tuis.</l>
+                  <l>Prima dies vitae mortis fit prima cruentae,</l>
+                  <l>dum moritur lucis neſcius ipſe ſuae.</l>
+                  <l>Enſem adigas dixi mea per praecordia miles,</l>
+                  <l>at ſoholi clemens obſecro parce meae.</l>
+               </q>
+And generally they are called St. Innocents and Martyrs, and a day in the Callander appointed for them. But it is concluded both by St. <hi>Cyprian,</hi> and St. <hi>Auguſtin,</hi> It's the Cauſe, not the Suf<g ref="char:EOLhyphen"/>fering makes them Martyrs. Both the <hi>Donatiſts,</hi> and <hi>Circumcellions</hi> would have all voluntary Deaths to be Martyrdom. And <hi>Pelibianus</hi> taught, that all who ſlew themſelves for their Sins were Martyrs, in which caſe, <hi>Judas</hi> might have had a principal rubrick in his Callender. But in a word, it's concluded by all Orthodox Divines, that he properly is a Martyr, that ſuffers Death for the Word of God, and Teſtimony of Jeſus our Saviour; Which honour whoſoever dar deny to the Magnanimous <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> muſt be confeſſed by all honeſt Men, deeply guilty of preſumptu<g ref="char:EOLhyphen"/>ous folly; ſtupid Ignorance Injurious Detraction, and pernicious and diſdainful envy, from which Good Lord deliver every Chriſtian. <hi>AMEN.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:175003:3"/>
+            <head>The Funeral Elegie.</head>
+            <lg>
+               <l>MY Muſe hath practiſ'd lighter griefs, but She</l>
+               <l>Hath hardly ſtrength for ſuch a Tragedie;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he death of <hi>Moriſtoun</hi>'s enough to make</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h'amazed Rafters of the Sky to ſhake.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat <hi>Atlas</hi> of the Nations Fame! his Fate,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oo glorious is for dregs of Wit to Rate.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would require ſome high victorious Rime</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or to revenge his Death, and conquer Time;</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t ye we're not ſurpriz'd, ſad news as theſe</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould ſtill get leave to ſink in by degrees.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me conquers grief, and makes it melt away,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ice before the Suns diſſolving Ray:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen may we fill the mouth of Fame with Verſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd pour a Box of Spiknard on his Hearſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hough now remote from us (bleſt Fate!) leſt we</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight with his Duſt commit Idolatrie:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Saint and Martyr <hi>Moriſtoun!</hi> whoſe Breaſt</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eroick Valiant Courage, ſo poſſeſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mſelf a Sacrifice for to afford,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> avenge th'affronts of his blaſphemed Lord;</l>
+            </lg>
+            <lg>
+               <l>No greater Chriſtian Honour, than t'oppoſe,</l>
+               <l>With lifes expence our <hi>Saviours</hi> ſpiteful foes.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Earth this is the Flow'r of all Renown,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d ſureſt Title to th'eternal Crown:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e is with glorious name of <hi>Martyr</hi> bleſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho with his Blood doth Seal the Truths of Chriſt<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith other Foes about the Bounds we fight<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> jure <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</note>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re for the whole Poſſeſſion and it's Right.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r <hi>CHRIST</hi> and <hi>Mahumet</hi> (we may be bold</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> affirm) that Heav'n together cannot hold.</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en bleſt is he whom love of <hi>Jeſus</hi> draws,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lay his life down in ſo good a C<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> whoſo gives his Bread unto the Poor,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in his Members feeds his Saviour:</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t he who gives Himſelf, his Life and Blood,</l>
+               <l>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> greater Sacrifice could give to <hi>God,</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:175003:4"/>Nor richer Purchaſe ever <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Either for Honour, or for Happineſs,</l>
+               <l>And this is properly our Saviours mind,<note place="margin">
+                     <hi>Mat.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>
+               </l>
+               <l>
+                  <hi>He that thus loſeth life, his life ſhall find.</hi>
+               </l>
+               <l>He who for <hi>Chriſt</hi> darr tread the Paths that lead</l>
+               <l>To the dark penſive Regions of the dead.</l>
+               <l>He by his Word, th'eternal Crown ſhall wear,<note place="margin">2 <hi>Tim.</hi> 2.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </l>
+               <l>That's more beſet with Pearl, than ſtuft with care.</l>
+               <l>The light afflictions which he here endur'd,<note place="margin">2 <hi>Cor.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </l>
+               <l>F<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r more excelling glorious weights afford.</l>
+               <l>Write them down bleſſed, ſaid the Heav'nly voice,<note place="margin">
+                     <hi>Rev.</hi> 14.13.</note>
+               </l>
+               <l>No Men like them, of all they are the choiſe.</l>
+               <l>In Eccleſiaſtick Hiſtory we read,</l>
+               <l>One Martyr ſtill th'way to another led;</l>
+               <l>Great is th'attractive pow'r, example hath,<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d. Hiſt. Aug<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Lib. <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note>
+               </l>
+               <l>St. <hi>Alban</hi> turn'd his Heads man to the Faith,</l>
+               <l>And to <hi>Gods</hi> Heav'nly Kingdom brought him on,</l>
+               <l>Through Martyrdom a ſtout Companion.</l>
+               <l>
+                  <hi>Sixius</hi> the Second, did St. <hi>Lawrence</hi> turn,</l>
+               <l>And he <hi>Romanus;</hi> for that Faith to burn</l>
+               <l>They lately perſecuted, ſo doth riſe</l>
+               <l>Another <hi>Phoenix</hi> from the Bed of Spice,</l>
+               <l>And precious Odoriferous perfume,</l>
+               <l>Which both at once renews and doth conſume</l>
+               <l>She her own happy Heir; what ruins all,</l>
+               <l>Adds ſtrength to her, reſtor'd by Funeral.</l>
+               <l>So ſurely his example will enflame</l>
+               <l>Some <hi>Heros</hi> get to ſignalize their Fame<g ref="char:punc">▪</g>
+               </l>
+               <l>No greater comfort to his Friends can come,</l>
+               <l>Then to believe he ſuffered Martyrdom.</l>
+               <l>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe truly are the Battels of the Lord,</l>
+               <l>That Heav'n and H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nour both at once afford.</l>
+               <l>While others ſpend their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with Packs of Hounds</l>
+               <l>About their hardly unmorgaged <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>And of Repentance never have a thought,</l>
+               <l>(The deareſt Penny-worth was over bought;)</l>
+               <l>A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tryſt Devotion till that Mellow years</l>
+               <l>Hath interwoven Snow amongſt their Hairs.</l>
+               <l>
+                  <pb facs="tcp:175003:4"/>Our <hi>Heros,</hi> whoſe wiſe greater Soul did train</l>
+               <l>More nobly ſparkling Blood through ev'r Vein;</l>
+               <l>Durſt generouſly Exile himſelf from home,</l>
+               <l>T'embalm his glorious Fame with Martyrdome.</l>
+               <l>Who had at <hi>Luxenburgh,</hi> and <hi>Vienn'</hi> too,</l>
+               <l>Withſtood the worſt Falſhood or Rage could do:</l>
+               <l>To give to all the World a proof, that he</l>
+               <l>Had to degenerous fear Antipathie.</l>
+               <l>Nor Friends, nor Parents Pray'rs, nor Tears, could <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>His Reſolutions for this fatal Camp:</l>
+               <l>That from his Chief and him, in Peace and War,</l>
+               <l>
+                  <hi>Scotland</hi> might Honour gain from Name of <hi>KER,</hi>
+               </l>
+               <l>And he his Family might Signalize</l>
+               <l>With this Heroick Chriſtian enterprize,</l>
+               <l>And all might in a Sainted Rubrick read,</l>
+               <l>Since the brave <hi>MORISTOUN</hi> at <hi>Buda</hi> dy'd;</l>
+               <l>A Youth of <hi>Myriads,</hi> yet did deſpiſe</l>
+               <l>The World, and did not ſay, <hi>Soul take thy eaſe,</hi>
+               </l>
+               <l>But had a holy paſſionat deſire,</l>
+               <l>
+                  <hi>Elias</hi>-like, to go to Heav'n with Fire:</l>
+               <l>Fighting againſt baſe Infidels, and worſe,</l>
+               <l>Who what they got by fraud, defends by force.</l>
+               <l>The Actors greatneſs wrongs ſometimes digeſts,</l>
+               <l>What horrid ſhame, Men worried thus with Beaſts?</l>
+               <l>The ſcourge of Chriſtendome, the Spoun of Hell,</l>
+               <l>Whether from <hi>Jew</hi> or <hi>Pagan,</hi> none can tell;</l>
+               <l>But this is ſure, all <hi>Mahume<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verr</l>
+               <l>A Thief, a Murderer, Adulterer.</l>
+               <l>He was (who wrot his life, they all confeſs,)</l>
+               <l>A naſtie ſink of ſin and wickedneſs:</l>
+               <l>His very Laws, in ſtead of good and iuſt,</l>
+               <l>Smells nothing but of Rancor and of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt.</l>
+               <l>This is the Antichriſt, whoſe whole intent's</l>
+               <l>To wallow in the Blood of Innocents,</l>
+               <l>And night and day like Devils doth imploy</l>
+               <l>Himſelf, both Souls and Bodies to deſtroy.</l>
+               <l>Shall Chriſtians ſuffer that Ignoble Slave</l>
+               <l>Thus to poſſeſs their Lord's and Saviour's Grave?</l>
+               <l>
+                  <pb facs="tcp:175003:5"/>That Monſter vile, that knows<g ref="char:punc">▪</g> no other Lord</l>
+               <l>But Rapine, and a Bloody Brandiſh'd Sword.</l>
+               <l>
+                  <hi>Buda</hi> is won, there reſts for to o'recome</l>
+               <l>But only <hi>Belgrad</hi> and <hi>Byſantium:</hi>
+               </l>
+               <l>Whereof of each, ſuch a triumphant Foil,</l>
+               <l>Will load you all with Honour and with Spoil,</l>
+               <l>May this a Flame to holy Zeal afford;</l>
+               <l>T'aſſiſt the Conqueſts of great <hi>Lorains</hi> Sword:</l>
+               <l>And may that Conquering Blade no meaſure know,</l>
+               <l>Untill th'inſulting <hi>Sultan</hi> be brought low.</l>
+               <l>It's Propheſi'd, that his laſt time is come,</l>
+               <l>He well may flee, but not out-flee his doom.</l>
+               <l>When ye have ſet a bounds unto his Rage,</l>
+               <l>This ſhall be call'd, <hi>The memorable Age.</hi>
+               </l>
+               <l>If ye do not (as God forbid) o'recome;</l>
+               <l>Ye'll win the glorious Crown of Martyrdome.</l>
+               <l>Had all undaunted Hearts like <hi>MORISTO<g ref="char:V">Ʋ</g>N,</hi>
+               </l>
+               <l>Triumphs and Trophies both would be your own</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <head>His Epitaph.</head>
+            <l>HEre lyes the Glory of his Name and Race,</l>
+            <l>Who Sacrific'd his Life for Chriſtian Peace</l>
+            <l>Whoſe Gallantry and Merit ſhall Renown</l>
+            <l>To th'world and, the Houſe of <hi>MORIS TO<g ref="char:V">Ʋ</g>
+               </hi>
+            </l>
+            <closer>
+               <signed>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> The Great <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
